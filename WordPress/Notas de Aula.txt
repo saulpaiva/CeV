@@ -1,0 +1,6 @@
+CURSO DE WORDPRESS - Curso em Vídeo
+
+
+-> Ferramentas úteis para desenvolvedores:
+
+- FileZilla (ou WinSCP)
