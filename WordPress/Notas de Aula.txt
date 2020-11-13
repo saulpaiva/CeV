@@ -3,4 +3,40 @@ CURSO DE WORDPRESS - Curso em Vídeo
 
 -> Ferramentas úteis para desenvolvedores:
 
-- FileZilla (ou WinSCP)
+	- FileZilla (ou WinSCP)
+	- PuTTY (Linux: https://www.ssh.com/ssh/putty/linux/  ;or;  https://itsfoss.com/putty-linux/)
+	- ColorZilla (https://www.colorzilla.com/)
+	- Fontface Ninja (https://chrome.google.com/webstore/detail/fonts-ninja/eljapbgkmlngdpckoiiibecpemleclhh  ;  https://www.fonts.ninja/)
+	- Notepad++ (https://notepad-plus-plus.org/downloads/ ; Linux-> https://itsfoss.com/notepad-plus-plus-linux/)
+	- XAMPP (https://www.apachefriends.org/index.html   ;   https://www.edivaldobrito.com.br/como-instalar-o-xampp-no-linux/   ;   https://www.apachefriends.org/faq_linux.html   ;   https://www.youtube.com/watch?v=ByrlZqCoTZM)
+		# Abrir o server local: (http://localhost/dashboard/) [Apache]
+		# Abrir o banco de dados local: (http://localhost/phpmyadmin/) [MySQL]
+	
+-> Preparando o ambiente:
+	
+	- No serviço de Hospedagem:
+		#Criação de 1 e-mail comercial (recomendado = 2 e-mails)
+		
+	- No XAMPP:
+		# phpmyadmin -> New -> Nome,latin2_general_ci 
+		# user = (root) ; password = ()
+		
+-> Instalando o WordPress no PC:
+
+	- Windows:
+
+		# baixar em https://wordpress.org/download/
+		# copiar pasta compactada para C:/xampp/htdocs
+		# extrair em C:/xampp/htdocs
+		# renomear pasta criada (minha_pasta)
+		# http://localhost/minha_pasta/
+
+
+	- Linux:
+
+		# baixar em https://wordpress.org/download/
+		# copiar pasta compactada para /opt/lampp/htdocs
+		# extrair em /opt/lampp/htdocs
+		# renomear pasta criada (minha_pasta)
+		# http://localhost/minha_pasta/
+
