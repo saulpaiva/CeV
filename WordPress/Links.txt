@@ -66,4 +66,6 @@ Quer mais link de recursos gratuitos?
 Simples, entre em noosso repositório no github:
 https://github.com/iuricode/recursos-gratuitos
 
-
+HOST:
+https://www.hostinger.com.br/hospedagem-wordpress
+(starter R$ 8,99/mês)
