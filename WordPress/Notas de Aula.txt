@@ -8,7 +8,17 @@ CURSO DE WORDPRESS - Curso em Vídeo
 	- ColorZilla (https://www.colorzilla.com/)
 	- Fontface Ninja (https://chrome.google.com/webstore/detail/fonts-ninja/eljapbgkmlngdpckoiiibecpemleclhh  ;  https://www.fonts.ninja/)
 	- Notepad++ (https://notepad-plus-plus.org/downloads/ ; Linux-> https://itsfoss.com/notepad-plus-plus-linux/)
-	- XAMPP (https://www.apachefriends.org/index.html   ;   https://www.edivaldobrito.com.br/como-instalar-o-xampp-no-linux/   ;   https://www.apachefriends.org/faq_linux.html   ;   https://www.youtube.com/watch?v=ByrlZqCoTZM)
+	- XAMPP 
+		# Windows
+
+		- https://www.apachefriends.org/index.html; 
+		- Go to XAMPP, installation directory, select the xampp-control.exe, right click properties--> compatability, Run as administrator, apply.
+		
+		[img]C:/Users/HOME/Desktop[/img]
+
+		# Linux
+		
+		https://www.edivaldobrito.com.br/como-instalar-o-xampp-no-linux/   ;   https://www.apachefriends.org/faq_linux.html   ;   https://www.youtube.com/watch?v=ByrlZqCoTZM)
 		# Abrir o server local: (http://localhost/dashboard/) [Apache]
 		# Abrir o banco de dados local: (http://localhost/phpmyadmin/) [MySQL]
 	
