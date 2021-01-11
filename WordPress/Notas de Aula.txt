@@ -25,7 +25,7 @@ CURSO DE WORDPRESS - Curso em Vídeo
 -> Preparando o ambiente:
 	
 	- No serviço de Hospedagem:
-		#Criação de 1 e-mail comercial (recomendado = 2 e-mails)
+		#Criação de 1 e-mail comercial (recomendado = 2 e-mails) [1024 MB por conta]
 		
 	- No XAMPP:
 		# phpmyadmin -> New -> Nome,latin2_general_ci 
