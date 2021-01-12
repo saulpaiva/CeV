@@ -28,7 +28,8 @@ CURSO DE WORDPRESS - Curso em Vídeo
 		#Criação de 1 e-mail comercial (recomendado = 2 e-mails) [1024 MB por conta]
 		
 	- No XAMPP:
-		# phpmyadmin -> New -> Nome,latin2_general_ci 
+		# criar Database (latin2_general_ci)
+		# phpmyadmin -> New -> Nome ; latin2_general_ci 
 		# user = (root) ; password = ()
 		
 -> Instalando o WordPress no PC:
