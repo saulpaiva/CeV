@@ -51,3 +51,16 @@ CURSO DE WORDPRESS - Curso em Vídeo
 		# renomear pasta criada (minha_pasta)
 		# http://localhost/minha_pasta/
 
+-> Acessando a página:
+
+	# Nome do banco de dados: cursoemvideowp
+	# Nome do usuário: root
+	# Senha: (vazio)
+	# Servidor do banco de dados: localhost
+	# Prefixo da tabela: wp_
+
+-> Instalando o WP:
+	# Título do site: Curso WordPress
+	# Nome do usuário: cursoemvideo
+	# Senha: s$Ve^J1dvxXd9CNHtP
+	# e-mail: transkipedia@gmail.com
