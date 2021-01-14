@@ -77,4 +77,12 @@ CURSO DE WORDPRESS - Curso em Vídeo
 	# Clicar no botão do criador de sites
 
 -> Instalando temas e plugins:
-	#
+	# Thema: Astra (tema pai)
+	# Gerar tema filho (https://wpastra.com/child-theme-generator/)
+	# Enviar tema filho no WP e ativá-lo
+	# Excluir temas/plugins desnecessários (todos temas restantes, akismet e hello doll)
+	# Plugins:
+		- Microthemer, Classic Editor, Ultimate Addons for Gutenberg (Beaver builder pago e addons como opcional)
+		- Configurar Classic Editor: Editor de blocos; Permitir que os usuários alternem entre editores
+
+-> 
