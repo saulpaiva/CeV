@@ -40,3 +40,62 @@ CURSO DE WORDPRESS - Curso em Vídeo
 		# renomear pasta criada (minha_pasta)
 		# http://localhost/minha_pasta/
 
+-> Instalando o WordpPress manualmente/automaticamente (Usando serviços de Host):
+
+	[...]
+
+-> Instalando temas e plugins:
+
+	- LINUX:
+
+	# Encontrar o usuário e a senha no site criado:
+
+		Ir para http://localhost/phpmyadmin/
+		Procurar o site criado -> wp_users -> browse -> ver informações
+
+
+	# Adicionar ao arquivo 'wp-config.php':
+
+		/** Add here*/
+		define('FS_METHOD','direct');
+		define("FTP_HOST", "localhost");
+		define("FTP_USER", “my_wordpress_user”);
+		define("FTP_PASS", “password”);
+		/** To here*/
+	
+	# Editar as permissões:
+
+		sudo chmod 777 /opt/lampp/htdocs/cursowp/wordpress/wp-content/plugins/
+		sudo chmod 777 /opt/lampp/htdocs/cursowp/wordpress/wp-content/themes/
+		sudo chown -R www-data:www-data /opt/lampp/htdocs/cursowp/wordpress
+
+	# To grant the write permission to all users, use the following command:
+
+		sudo chmod -R 777 /opt/lampp/htdocs
+
+	- WINDOWS:
+
+	# Adicionar ao arquivo 'wp-config.php':
+
+		/** Add here*/
+		define('FS_METHOD','direct');
+		define("FTP_HOST", "localhost");
+		define("FTP_USER", “my_wordpress_user”);
+		define("FTP_PASS", “password”);
+		/** To here*/
+
+	# Editar as permissões:
+		chmod 777 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/
+		chmod 777 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/
+
+	- GERAL:
+
+	# Temas:
+
+		Astra (criar tema filho: https://wpastra.com/child-theme-generator/ -> enviar/upload tema -> ativar)
+
+	# Plugins:
+
+		Classic Editor (config -> Default editor for all users [block editor] -> Allow users to switch editors [yes])
+		Microthemer
+		Gutenberg Blocks – Ultimate Addons for Gutenberg
