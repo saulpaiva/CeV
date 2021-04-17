@@ -1,0 +1,10 @@
+		GitHub Desktop for Linux
+
+Tutorial on YouTube: https://www.youtube.com/watch?v=jMbYkIw-Wfc
+
+Project on GitHub: https://github.com/shiftkey/desktop
+	- Download at: https://github.com/shiftkey/desktop/releases (Assets item)
+	
+Commands on Debian/Ubuntu based: sudo dpkg -i "name_of_package" (Open Terminal on downloaded package folder)
+
+Open and login!
